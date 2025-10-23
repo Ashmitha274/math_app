@@ -1,4 +1,4 @@
-#LEETCODE INSPIRED COMPETITIVE MATH LEARNING PLATFORM FOR STUDENTS**
+# LEETCODE INSPIRED COMPETITIVE MATH LEARNING PLATFORM FOR STUDENTS
 
 This project is a Flask-based assessment and problem-solving platform designed to manage user profiles, host coding or quiz problems, track submissions, and display leaderboards for individual performance.Built on Python's Flask framework, the app enables user authentication, problem viewing and submission, quiz attempts, and real-time ranking based on performance.
 
